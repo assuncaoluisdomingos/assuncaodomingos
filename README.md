@@ -1,10 +1,11 @@
-# Hello, welcome! Olá, Seja bem vindo (a) !
+# Olá, Seja bem vindo (a) !
 
-I am currently studying Information Science.
+Atualmente estou cursando Ciência da Informação na USFC - UNiversidade Federal de Santa Catarina
 
-Atualmente estouy cursando Ciência da Informação 
+        Técnico Subsequente em Informática para a Internet  IFSC - Instituto Federal de Santa Catarina 
+        
+        Ensino Técnico na Toti-  Análise de Dados
+
+Life Long learning : Analista de Dados | Business Intelligence | • Excel | • Python | • SQL |• Power BI | • AWS Cloud | • TIC | Transformando Dados Financeiros e Corporativos em Insights Estratégicos
 
 Life long learning : Data Analyst | Business Intelligence | • Excel | • Python | • SQL | • Power BI | • AWS Cloud | • ICT | Transforming Financial and Corporate Data into Strategic Insights
-
-Life Long learning : Analista de Dados :  Power BI | Python | AWS Certified Cloud Practitioner | Finanças e Negócios | Projetos em Tecnologia da Informação
-
